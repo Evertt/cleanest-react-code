@@ -4,8 +4,6 @@ The application is pretty simple. Users can create teams where other users can j
 
 A team is created during the registration if the user didn't choose to join an existing team and the user becomes the admin of it.
 
-[Demo](https://bulletproof-react-app.netlify.app)
-
 ## Data model
 
 The application contains the following models:
@@ -14,7 +12,7 @@ The application contains the following models:
 
   - `ADMIN` can:
     - create/edit/delete discussions
-    - create/delete own comments
+    - create/delete all comments
     - delete users
     - edit own profile
   - `USER` - can:
@@ -37,8 +35,8 @@ Prerequisites:
 To set up the app execute the following commands.
 
 ```bash
-git clone https://github.com/alan2207/bulletproof-react.git
-cd bulletproof-react
+git clone https://github.com/Evertt/cleanest-react-code.git
+cd cleanest-react-code
 cp .env.example .env
 yarn install
 ```
