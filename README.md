@@ -1,18 +1,16 @@
-# Bulletproof React 🛡️ ⚛️
+# Cleanest React Code 🛡️ ⚛️
 
-[![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/alan2207/bulletproof-react/blob/master/LICENCE)
-[![CI](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml/badge.svg)](https://github.com/alan2207/bulletproof-react/actions/workflows/ci.yml)
+[![CI](https://github.com/Evertt/cleanest-react-code/actions/workflows/ci.yml/badge.svg)](https://github.com/Evertt/cleanest-react-code/actions/workflows/ci.yml)
 
 A simple, scalable, and powerful architecture for building production ready React applications.
 
 ## Introduction
 
-React is a great tool for building frontend applications. It has a very diverse ecosystem with hundreds of great libraries for literally anything you might need. However, it can be overwhelming to be forced to make so many choices.
-It is also very flexible, you can write React applications in any way you like but that flexibility comes with a cost. Since there is no pre-defined architecture developers can follow, it often leads to messy, inconsistent, or over-complicated codebases.
+React is an excellent tool for building front-end applications. It has a diverse ecosystem with hundreds of great libraries for literally anything you might need. However, being forced to make so many choices can be overwhelming. It is also very flexible, you can write React applications in any way you like, but that flexibility comes with a cost. Since there is no pre-defined architecture that developers can follow, it often leads to a messy, inconsistent, and over-complicated codebase.
 
-This is an attempt to present a way of creating React applications using the best tools in the ecosystem with a good project structure that scales very well. It is based on the experience of working with many different codebases, and this architecture turns out to be the most effective one.
+This repo attempts to present a way of creating React applications using some of the best tools in the ecosystem with a good project structure that scales very well. Based on my vast experience working with different codebases, this architecture turns out to be the most effective.
 
-The goal of this repo is to serve as a collection of resources and good practices when developing React applications. It is supposed to showcase solving most of the real-world problems of an application in a practical way and help developers writing better applications.
+The goal here is to serve as a collection of resources and best practices when developing React applications. It is supposed to showcase solving most of the real-world problems of an application in a practical way and help developers write better applications.
 
 Feel free to explore the codebase to get the most value out of the repo.
 
